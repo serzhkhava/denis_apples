@@ -1,0 +1,190 @@
+body{
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#liMenu{
+    list-style: none;
+    display: inline-block;
+    margin: 0px 10px 0px 10px;
+}
+#ul1{
+    text-align: right;
+}
+#logo{
+    vertical-align: middle;
+    margin-bottom: 15px;
+}
+#aHeader:hover{
+    color: black;
+    background:white;
+    border-radius: 25px;
+    padding: 5px;
+}
+#aHeader{
+    text-decoration: none;
+    color: white;
+}
+#header{
+    color: white;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../images/1920x1080-px-apples-Granny-Smith-Apples-1234521.jpg);
+    height: 800px;
+}
+#h1Head{
+    display: inline-block;
+}
+.headTitle1{
+    color: white;
+}
+.headerMenu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.568);
+}
+#h1Header{
+    font-size: 100px;
+    margin: 0;
+}
+#pHeader{
+    width: 400px;
+}
+#headerTwo{
+    margin-left: 100px;
+}
+#headBut1, #headBut2{
+    width: 100px;
+    height: 50px;
+    border-radius: 17%;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card{
+    border: solid rgb(255, 255, 255) 1px;
+    width: 250px;
+    border-radius: 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.062);
+}
+#but1{
+    border-radius: 20px;
+    background-color: rgb(0, 187, 0);
+    border: solid white 1px;
+    height: 35px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    color: white;
+}
+#imgIcon{
+    width: 40px;
+}
+.iconResearch{
+    display: flex;
+    margin-left: 25px;
+}
+.iconFlex{
+    margin-top: 20px;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#pMain{
+    margin-left: 25px;
+}
+.connection{
+    background-color: rgb(0, 0, 0);
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.card2{
+    border: solid rgb(0, 0, 0) 1px;
+    width: 250px;
+    border-radius: 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.062);
+    color: rgb(117, 117, 117);
+}
+.services{
+}
+.imgCorrect{
+    width: 10px;
+}
+#liIcons{
+    width: 15px;
+}
+.iconsText{
+    display: flex;
+    flex-direction: column;
+}
+#maseg{
+    height: 40px;
+}
+#butContOne{
+    border-radius: 20px;
+    background-color: rgb(0, 187, 0);
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    color: white;
+}
+#info{
+    text-align: center;
+}
+#hr{
+    margin-inline: 800px;
+}
+#butContTwo{
+    border-radius: 20px;
+    background-color: rgb(54, 54, 54);
+    border: none;
+    margin-bottom: 10px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.twoButs{
+    display: flex;
+    justify-content: end;
+    margin-right: 70px;
+}
+footer{
+    background-color: rgb(65, 65, 65);
+    height: 300px;
+
+}
+.cardsFooter{
+    display: flex;
+    justify-content: space-around;
+    margin-inline:50px ;
+}
+.cardFooter{
+    border: solid rgb(65, 65, 65) 1px;
+    width: 150px;
+
+    color: rgb(173, 173, 173);
+}
+#liFooter{
+    list-style: none;
+    margin-top: 5px;
+}
+#socialIcons{
+    border-radius: 100%;
+    margin-left: 5px;
+}
+#butSocial{
+    color: white;
+    background-color: rgb(168, 96, 96);
+    height: 30px;
+    width: 150px;
+    border-radius: 100px;
+    border: solid rgb(65, 65, 65) ;
+    margin-top: 25px;
+}
